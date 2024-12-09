@@ -14,5 +14,6 @@ Strength Scoring: The password is scored based on the above criteria and classif
 Improvement Tips: Detailed suggestions on how to improve the password, such as adding special characters or avoiding common dictionary words.
 How to Use:
 
-Replace the dictionary file path with your own dictionary of words.
+Download the given dictionary_word.json file 
+Replace the dictionary file path with your path.
 Call the check_password_strength(password, dictionary_words) function, where password is the user’s input and dictionary_words is the set of loaded dictionary words.
